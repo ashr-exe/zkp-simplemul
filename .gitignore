@@ -1,16 +1,16 @@
 # Dependencies
 node_modules/
 
-# Build artifacts (The heavy stuff we can regenerate)
-*.r1cs
-*.sym
-*.wasm
-*.zkey
-*.ptau
-*.wtns
-proof.json
-public.json
-verification_key.json
+# Build artifacts (The heavy stuff we can regenerate -- kept here for educational purpose)
+#*.r1cs
+#*.sym
+#*.wasm
+#*.zkey
+#*.ptau
+#*.wtns
+#proof.json
+#public.json
+#verification_key.json
 
 # Generated C++ folders
 *_cpp/
